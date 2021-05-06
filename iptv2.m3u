@@ -1,0 +1,19 @@
+#EXTM3U
+
+
+#EXTINF:0 group-title="canais iptv "
+   
+   
+   
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://static.sbt.com.br/programas/logos/126.jpg" group-title="CANAIS ABERTOS",SBT
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1263669817_b350000.m3u8
+
+
+
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORDTV" tvg-logo="http://vtb.r7.com/399567/2016/11/24/58378164596f99c281001d01/71f58716b678446b8d2e30d21a0836e2__ER7_RE_JR_NOVO_LOGO_570kbps_2016_11_24_thumb_thumb.jpg" group-title="CANAIS ABERTOS",RECORDTV
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_480_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1 tvg-id="ANIMETV" tvg-name="ANIMETV" tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="CANAIS ABERTOS",ANIMETV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w589824130.m3u8
